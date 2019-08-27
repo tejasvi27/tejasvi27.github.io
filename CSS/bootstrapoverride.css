@@ -1,0 +1,87 @@
+.jumbotron{
+    color:blanchedalmond;
+    background-image: url("../Images/banner3.gif");
+    background-size: cover;
+     background-position:center;
+     height: 350px;
+     font-family: cursive; 
+     font-family: "Marker Felt";
+     font-size: 24px; 
+     font-style: oblique; 
+     font-weight: bold;
+     font-variant: normal; 
+     line-height: 26.4px;
+    text-shadow: 3px 3px #000;  
+}
+
+
+    .navbar{
+        font-family: 'Chalkduster';
+        margin-bottom:0px;
+        border-radius:0px;
+            }
+
+body{
+    color: #000;
+}
+
+a{
+    color: #4caf50;
+}
+
+h3{
+    font-family: 'Chalkduster';
+    font-size: 25px;
+    font-weight: bold;
+}
+
+p{
+    font-family: 'Chalkduster';
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#button{
+    font-size: 18px;
+    border: none;
+    outline: none;
+    background-color:black;
+    color: white;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 6px;
+}
+#button:hover {
+    background-color: #555;
+  }
+
+  .desc{
+      color:blueviolet;
+  }
+.hd{
+    color:goldenrod; 
+}
+
+.vd{
+    color: #ff4444;
+}
+
+.vb{
+    color: orange;
+}
+
+.bt{
+    color: #e91e63;
+}
+.tw{
+    color:#4caf50;
+}
+.panel, .flip {
+    text-align: center;
+     background-color:#f2dede;
+}
+  
+  .panel {
+    padding: 40px;
+    display: none;
+  }
